@@ -1,5 +1,5 @@
 ---
-title: "Getting started with Selenium Grid"
+title: "Getting started with Selenium GriD"
 linkTitle: "Getting Started"
 weight: 2
 description: >
